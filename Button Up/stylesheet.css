@@ -1,0 +1,25 @@
+.button-1, .button-2, .button-3 {
+    display: block;
+    margin: 20px;
+}
+.button-1 {
+    border-radius: 12px;
+    color: aqua;
+    background-color: gainsboro;
+    border: 2.5px solid aqua;
+    padding: 12px 28px;
+    width: 250px;
+}
+.button-2 {
+    border-radius: 50%;
+    color: white;
+    background-color: aqua;
+    padding: 1.5%;
+}
+.button-3 {
+    padding: 12px 28px;
+    color: white;
+    background-color: dodgerblue;
+    box-shadow: .5px 5px .5px black;
+    width: 250px;
+}
